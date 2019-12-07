@@ -15,6 +15,7 @@
 		41DC2188239827E80082F8EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 41DC2186239827E80082F8EA /* LaunchScreen.storyboard */; };
 		41DC2193239827E80082F8EA /* BullsEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41DC2192239827E80082F8EA /* BullsEyeTests.swift */; };
 		41DC219E239827E80082F8EA /* BullsEyeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41DC219D239827E80082F8EA /* BullsEyeUITests.swift */; };
+		41DC21AC239C15490082F8EA /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41DC21AB239C15490082F8EA /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		41DC2199239827E80082F8EA /* BullsEyeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BullsEyeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		41DC219D239827E80082F8EA /* BullsEyeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BullsEyeUITests.swift; sourceTree = "<group>"; };
 		41DC219F239827E80082F8EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		41DC21AB239C15490082F8EA /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				41DC217B239827E70082F8EA /* AppDelegate.swift */,
 				41DC217D239827E70082F8EA /* SceneDelegate.swift */,
 				41DC217F239827E70082F8EA /* ContentView.swift */,
+				41DC21AB239C15490082F8EA /* AboutView.swift */,
 				41DC2181239827E80082F8EA /* Assets.xcassets */,
 				41DC2186239827E80082F8EA /* LaunchScreen.storyboard */,
 				41DC2189239827E80082F8EA /* Info.plist */,
@@ -267,6 +270,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				41DC21AC239C15490082F8EA /* AboutView.swift in Sources */,
 				41DC217C239827E70082F8EA /* AppDelegate.swift in Sources */,
 				41DC217E239827E70082F8EA /* SceneDelegate.swift in Sources */,
 				41DC2180239827E70082F8EA /* ContentView.swift in Sources */,
